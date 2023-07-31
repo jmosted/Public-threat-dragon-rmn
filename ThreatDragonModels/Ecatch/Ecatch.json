@@ -1,0 +1,26 @@
+{
+  "version": "2.0.3",
+  "summary": {
+    "title": "Ecatch",
+    "owner": "Bjungle",
+    "description": "Ecatch Services",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Ecatch Services",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.0.3",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Jonhjar Guerrero",
+    "threatTop": 0
+  }
+}
